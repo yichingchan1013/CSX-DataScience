@@ -1,7 +1,7 @@
 # CS-X Programming
 107-2 Data Science & Programming
 
-## Introduce Myself>
+## Introduce Myself 
 I am Yiching :smiley: 
 
 ## Progress Report 
