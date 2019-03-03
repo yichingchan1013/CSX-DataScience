@@ -5,7 +5,7 @@
 I am Yiching :smiley: 
 
 ### Reference
-- markdown chearsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [markdown chearsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Progress Report 
 
@@ -17,6 +17,6 @@ I am Yiching :smiley:
 - [x] Github desktop
 
 ### week 2 (2/28) no class- Homework0
-level 1- flow chart 
-level 2- add comments 
-level 3- edit
+Level 1- flow chart 
+Level 2- add comments 
+Level 3- edit
