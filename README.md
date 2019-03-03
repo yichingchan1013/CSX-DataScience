@@ -17,6 +17,6 @@ I am Yiching :smiley:
 - [x] Github desktop
 
 ### week 2 (2/28) no class- Homework0
-Level 1- flow chart 
-Level 2- add comments 
-Level 3- edit
+- Level 1- flow chart 
+- Level 2- add comments 
+- Level 3- edit
