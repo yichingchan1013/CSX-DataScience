@@ -6,6 +6,7 @@ I am Yiching :smiley:
 
 ### Reference
 - [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [visulize Python](http://pythontutor.com/visualize.html?fbclid=IwAR2q1rmTpHAJmxUOhD_p00Wm4HTITX7EGCxy-o7U_pns0liWl0sEx7cODtc#mode=edit)
 
 ## Progress Report 
 
