@@ -25,9 +25,9 @@ I am Yiching :smiley:
 - Crawl news articles from 自由時報生活版 and make wordclouds
 
    1. 非洲豬瘟
-  ![alt text](https://github.com/yichingchan1013/myGithub/blob/master/hw0/pig_cloud.png)
+  ![alt text](https://github.com/yichingchan1013/myGithub/blob/master/hw0/pig_cloud.png=400x)
    2. 台大校長遴選
-  ![alt text](https://github.com/yichingchan1013/myGithub/blob/master/hw0/ntu_president_cloud.png)
+  ![alt text](https://github.com/yichingchan1013/myGithub/blob/master/hw0/ntu_president_cloud.png=400x)
 
   
 ### week 3 (3/06)
