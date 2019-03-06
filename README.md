@@ -20,14 +20,20 @@ I am Yiching :smiley:
 ### week 2 (2/28) no class- Homework0
 
 - Flow chart of the sample code: 
-![alt text](https://github.com/yichingchan1013/myGithub/blob/master/hw0/flowchart_SampleCode.png)
+<p align="center">
+   <img src="https://github.com/yichingchan1013/myGithub/blob/master/hw0/flowchart_SampleCode.png">
+</p>
 
 - Crawl news articles from 自由時報生活版 and make wordclouds
 
    1. 非洲豬瘟
-  ![alt text](https://github.com/yichingchan1013/myGithub/blob/master/hw0/pig_cloud.png=400x)
+   <p align="center">
+      <img src="https://github.com/yichingchan1013/myGithub/blob/master/hw0/pig_cloud.png" width="500">
+   </p>
+ 
    2. 台大校長遴選
-  ![alt text](https://github.com/yichingchan1013/myGithub/blob/master/hw0/ntu_president_cloud.png=400x)
-
+   <p align="center">
+      <img src="https://github.com/yichingchan1013/myGithub/blob/master/hw0/ntu_president_cloud.png" width="500">
+   </p>
   
 ### week 3 (3/06)
