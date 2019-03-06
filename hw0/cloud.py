@@ -85,9 +85,9 @@ pig.to_file('pig_cloud.png')
 
 
 #校長遴選
-ntu_president=get_wordcloud_of_keywords('校長', contents, 'ntu.jpg')
+ntu_president=get_wordcloud_of_keywords('校長', contents, 'ntu2.jpg')
 ntu_president.to_image()
-ntu_president.to_file('ntu_president_cloud.png')
+ntu_president.to_file('ntu_president_cloud2.png')
 
 
 
