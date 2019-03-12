@@ -7,6 +7,7 @@ I am Yiching :smiley:
 ### Reference
 - [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [visualize Python](http://pythontutor.com/visualize.html?fbclid=IwAR2q1rmTpHAJmxUOhD_p00Wm4HTITX7EGCxy-o7U_pns0liWl0sEx7cODtc#mode=edit)
+- [Selecting the Perfect Visualization for Your Data](https://www.techprevue.com/decision-tree-perfect-visualisation-data/)
 
 ## Progress Report 
 
@@ -37,3 +38,5 @@ I am Yiching :smiley:
    </p>
   
 ### week 3 (3/06)
+- [ ] self-learn visualization 
+- [ ] data anaysis & preliminary results (選91APP)
