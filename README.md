@@ -37,6 +37,23 @@ I am Yiching :smiley:
       <img src="https://github.com/yichingchan1013/myGithub/blob/master/hw0/ntu_president_cloud.png" width="500">
    </p>
   
-### week 3 (3/06)
+### week 3 (3/07)
 - [ ] self-learn visualization 
 - [ ] data anaysis & preliminary results (選91APP)
+
+### week 4 (3/14) 作業一：選定一種領域資料集，提出對資料的看法與問題定義流程說明。  
+### week 5 (3/21) 作業二：將資料處理成可進行分析的狀態以供接下來的視覺化備用。  
+### week 6 (3/28) 作業三：將預處理過的資料進行資料視覺化，並進行 EDA，提出對資料更深刻的理解。  
+### week 7 (4/4) spring break
+### week 8 (4/11) 作業四：針對視覺化後的資料進行客戶分群分析與歸納出各種類型客戶的消費特徵。  
+### week 9 (4/18) 作業五：對文字資料進行預處理。  
+### week 10 (4/25) 作業六：使用 NER 對文本進行重點動態標註。  
+### week 11 (5/2) 作業七：將文字標記分類透過共現性與關聯分析進行視覺化。  
+### week 12 (5/9)
+### week 13 (5/16) Pitch in group
+### week 14 (5/23)
+### week 15 (5/30)
+### week 16 (6/6)
+### week 17 (6/13) Final Demo
+
+
