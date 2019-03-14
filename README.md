@@ -24,7 +24,7 @@ To-Do:
 
 ### week 2 (2/28) no class- Homework0
 To-Do:
-   -[x][HW0](https://github.com/yichingchan1013/myGithub/tree/master/hw0)
+   - [x] [HW0](https://github.com/yichingchan1013/myGithub/tree/master/hw0)
    - draw Flow chart of the sample code 
    - Crawl news articles from 自由時報生活版 to make wordclouds
 
