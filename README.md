@@ -23,9 +23,10 @@ To-Do:
    - [x] Github desktop
 
 ### week 2 (2/28) no class- Homework0
-[HW0](https://github.com/yichingchan1013/myGithub/tree/master/hw0)
-   - draw Flow chart of the sample code 
-   - Crawl news articles from 自由時報生活版 to make wordclouds
+To-Do:
+   -[x][HW0](https://github.com/yichingchan1013/myGithub/tree/master/hw0)
+      - draw Flow chart of the sample code 
+      - Crawl news articles from 自由時報生活版 to make wordclouds
 
 ### week 3 (3/07)
    - Introduction to open data sources
