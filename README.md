@@ -24,8 +24,8 @@ To-Do:
    - [x] Github desktop
 
 ### week 2 (2/28) no class- Homework0
-[HW0]()
-   - draw Flow chart of the sample code: 
+[HW0](https://github.com/yichingchan1013/myGithub/tree/master/hw0)
+   - draw Flow chart of the sample code 
    - Crawl news articles from 自由時報生活版 and make wordclouds
 
 ### week 3 (3/07)
@@ -34,8 +34,8 @@ In class:
    - Determine our own topic on EDA (91APP)
    
 ### week 4 (3/14) 作業一：選定一種領域資料集，提出對資料的看法與問題定義流程說明。
-In class
-   - Introduction to visualization 
+In class:
+   - Introduction to data visualization 
    - practice EDA in group 
    
 To-Do:
