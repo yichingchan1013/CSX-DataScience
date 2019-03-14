@@ -12,34 +12,31 @@ I am Yiching :smiley:
 ## Progress Report 
 
 ### week 1 (2/21)
-   In class:
-     - Course Introduction
-     - Github Introduction & Setup 
+   - Course Introduction
+   - Github Introduction & Setup 
    
-   To-Do:
-     - [x] create README.md 
-     - [x] add GitHub link at NTU COOL
-     - [x] upload homework0 to Github before 3/7 10pm
-     - [x] check out more info. at COOL
-     - [x] Github desktop
+To-Do:
+   - [x] create README.md 
+   - [x] add GitHub link at NTU COOL
+   - [x] upload homework0 to Github before 3/7 10pm
+   - [x] check out more info. at COOL
+   - [x] Github desktop
 
 ### week 2 (2/28) no class- Homework0
-   [HW0](https://github.com/yichingchan1013/myGithub/tree/master/hw0)
-      - draw Flow chart of the sample code 
-      - Crawl news articles from 自由時報生活版 to make wordclouds
+[HW0](https://github.com/yichingchan1013/myGithub/tree/master/hw0)
+   - draw Flow chart of the sample code 
+   - Crawl news articles from 自由時報生活版 to make wordclouds
 
 ### week 3 (3/07)
-   In class:
-     - Introduction to open data sources
-     - Determine our own topic on EDA (91APP)
+   - Introduction to open data sources
+   - Determine our own topic on EDA (91APP)
    
 ### week 4 (3/14) 作業一：選定一種領域資料集，提出對資料的看法與問題定義流程說明。
-   In class:
-     - Introduction to data visualization 
-     - practice EDA in group 
+   - Introduction to data visualization 
+   - practice EDA in group 
    
-   To-Do:
-     - [ ] hw1: EDA & show preliminary results(submit by 3/22)
+To-Do:
+   - [ ] hw1: EDA & show preliminary results(submit by 3/22)
 
 ### week 5 (3/21) 作業二：將資料處理成可進行分析的狀態以供接下來的視覺化備用。  
 ### week 6 (3/28) 作業三：將預處理過的資料進行資料視覺化，並進行 EDA，提出對資料更深刻的理解。  
