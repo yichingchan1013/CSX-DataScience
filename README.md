@@ -39,6 +39,19 @@ To-Do:
 To-Do:
    - [ ] hw1: EDA & show preliminary results(submit by 3/22)
 
+Self-taught: Data Visualization from Coursera [IBM Data Science Professional Certificate Specialization](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+   - IBM data analysis:
+    - [X] Data Wrangling 
+    - [X] Exploratory Data Analysis
+   - IBM data visualization:
+    - [X] Introduction to Matplotlib and Line Plots
+    - [X] Area Plots, Histograms, and Bar Plots
+    - [X] Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
+    - [ ] Waffle Charts, Word Clouds, and Regression Plots
+    - [ ] Generating Maps with Python
+   - work on IBM Developer Skills Network Labs
+
+
 ***
 ## week 5 (3/21) 作業二：將資料處理成可進行分析的狀態以供接下來的視覺化備用。  
 ## week 6 (3/28) 作業三：將預處理過的資料進行資料視覺化，並進行 EDA，提出對資料更深刻的理解。  
