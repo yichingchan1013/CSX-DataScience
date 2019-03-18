@@ -49,7 +49,7 @@ Self-taught: Data Visualization from Coursera [IBM Data Science Professional Cer
       - [X] Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
       - [ ] Waffle Charts, Word Clouds, and Regression Plots
       - [ ] Generating Maps with Python
-   - work on IBM Developer Skills Network Labs
+   - work on [IBM Developer Skills Network Labs](https://labs.cognitiveclass.ai/tools/jupyterlab/)
 
 
 
