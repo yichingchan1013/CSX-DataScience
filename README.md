@@ -41,14 +41,14 @@ To-Do:
 
 Self-taught: Data Visualization from Coursera [IBM Data Science Professional Certificate Specialization](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
    - IBM data analysis:
-    - [X] Data Wrangling 
-    - [X] Exploratory Data Analysis
+      - [X] Data Wrangling 
+      - [X] Exploratory Data Analysis
    - IBM data visualization:
-    - [X] Introduction to Matplotlib and Line Plots
-    - [X] Area Plots, Histograms, and Bar Plots
-    - [X] Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
-    - [ ] Waffle Charts, Word Clouds, and Regression Plots
-    - [ ] Generating Maps with Python
+      - [X] Introduction to Matplotlib and Line Plots
+      - [X] Area Plots, Histograms, and Bar Plots
+      - [X] Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
+      - [ ] Waffle Charts, Word Clouds, and Regression Plots
+      - [ ] Generating Maps with Python
    - work on IBM Developer Skills Network Labs
 
 
