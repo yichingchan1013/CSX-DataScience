@@ -36,9 +36,6 @@ To-Do:
    - Introduction to data visualization 
    - practice EDA in group 
    
-To-Do:
-   - [ ] hw1: EDA & show preliminary results(submit by 3/22)
-
 Self-taught: Data Visualization from Coursera [IBM Data Science Professional Certificate Specialization](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
    - IBM data analysis:
       - [X] Data Wrangling 
@@ -53,9 +50,22 @@ Self-taught: Data Visualization from Coursera [IBM Data Science Professional Cer
 
 
 
-## week 5 (3/21) 作業二：將資料處理成可進行分析的狀態以供接下來的視覺化備用。  
-## week 6 (3/28) 作業三：將預處理過的資料進行資料視覺化，並進行 EDA，提出對資料更深刻的理解。  
+## week 5 (3/21) 作業二：將資料處理成可進行分析的狀態以供接下來的視覺化備用。 
+   - case study: 台北市長候選人臉書經營方式的影響分析 (question defined,sentiment analysis,LDA) 
+   - practice EDA in group 
+   
+Self-taught: review python fundamentals @ ccClub problem sets
+
+## week 6 (3/28) 作業三：將預處理過的資料進行資料視覺化，並進行 EDA，提出對資料更深刻的理解。
+   - presentation of 南山理賠服務
+   - presentation of 南山理賠再購資料分析
+   - case study: 韓國瑜 & 陳其邁 2018 年 9 月臉書資料文本分析 (LDA、DTM & 共現性圖)
+
 ## week 7 (4/4) spring break
+
+To-Do:
+   - [ ] hw1-3 EDA & preliminary results (submit by 4/10)
+   
 ## week 8 (4/11) 作業四：針對視覺化後的資料進行客戶分群分析與歸納出各種類型客戶的消費特徵。  
 ## week 9 (4/18) 作業五：對文字資料進行預處理。  
 ## week 10 (4/25) 作業六：使用 NER 對文本進行重點動態標註。  
