@@ -64,7 +64,10 @@ Self-taught: review python fundamentals @ ccClub problem sets
 ## week 7 (4/4) spring break
 
 To-Do:
-   - [ ] hw1-3 EDA & preliminary results (submit by 4/10)
+   - [X] hw1-3 EDA & preliminary results (submit by 4/10)
+
+[hw1-3](https://github.com/yichingchan1013/myGithub/blob/master/hw1-3/91APP%20%E5%AE%A2%E6%88%B6%E5%88%86%E6%9E%90-Copy1.ipynb)備註：由於資料檔太大，因此只放上ipynb檔
+
    
 ## week 8 (4/11) 作業四：針對視覺化後的資料進行客戶分群分析與歸納出各種類型客戶的消費特徵。  
 ## week 9 (4/18) 作業五：對文字資料進行預處理。  
