@@ -32,7 +32,7 @@ To-Do:
    - Determine our own topic on EDA (91APP)
 
 
-## week 4 (3/14) 作業一：選定一種領域資料集，提出對資料的看法與問題定義流程說明。
+## week 4 (3/14) 選定一種領域資料集，提出對資料的看法與問題定義流程說明
    - Introduction to data visualization 
    - practice EDA in group 
    
@@ -50,13 +50,13 @@ Self-taught: Data Visualization from Coursera [IBM Data Science Professional Cer
 
 
 
-## week 5 (3/21) 作業二：將資料處理成可進行分析的狀態以供接下來的視覺化備用。 
+## week 5 (3/21) 資料預處理 & 視覺化，進行 EDA，提出對資料更深刻的理解。
    - case study: 台北市長候選人臉書經營方式的影響分析 (question defined,sentiment analysis,LDA) 
    - practice EDA in group 
    
 Self-taught: review python fundamentals @ ccClub problem sets
 
-## week 6 (3/28) 作業三：將預處理過的資料進行資料視覺化，並進行 EDA，提出對資料更深刻的理解。
+## week 6 (3/28) 
    - presentation of 南山理賠服務
    - presentation of 南山理賠再購資料分析
    - case study: 韓國瑜 & 陳其邁 2018 年 9 月臉書資料文本分析 (LDA、DTM & 共現性圖)
@@ -65,13 +65,17 @@ Self-taught: review python fundamentals @ ccClub problem sets
 
 To-Do:
    - [X] [hw1-3](https://github.com/yichingchan1013/myGithub/blob/master/hw1-3/91APP%20%E5%AE%A2%E6%88%B6%E5%88%86%E6%9E%90-Copy1.ipynb) EDA & preliminary results (submit by 4/10)
-   - 備註：由於資料檔太大，因此只放上ipynb檔
-
    
+  
 ## week 8 (4/11) 作業四：針對視覺化後的資料進行客戶分群分析與歸納出各種類型客戶的消費特徵。  
-## week 9 (4/18) 作業五：對文字資料進行預處理。  
-## week 10 (4/25) 作業六：使用 NER 對文本進行重點動態標註。  
-## week 11 (5/2) 作業七：將文字標記分類透過共現性與關聯分析進行視覺化。  
+   - hw1-3 peer sharing 
+   - Introduction to Maching Learning & Deep Learning
+   
+To-Do:
+   - [ ] group set up  
+## week 9 (4/18) 對文字資料進行預處理。	   
+## week 10 (4/25) 使用 NER 對文本進行重點動態標註。  
+## week 11 (5/2) 將文字標記分類透過共現性與關聯分析進行視覺化。  
 ## week 12 (5/9)
 ## week 13 (5/16) Pitch in group
 ## week 14 (5/23)
