@@ -72,8 +72,16 @@ To-Do:
    - Introduction to Maching Learning & Deep Learning
    
 To-Do:
-   - [ ] group set up  
-## week 9 (4/18) 對文字資料進行預處理。	   
+   - [X] group set up 
+   
+## week 9 (4/18) 對文字資料進行預處理。	
+   - Introduction to TF-IDF(文字向量化，假設出現越多次越重要), Word2vec(文字向量化，大量訓練), PCA（降維）, Kmeans clustering（未標記標準答案）, SVM（有標記標準答案）
+   - case study: 數據唐詩（基本假設：唐詩用字精練，字詞出現越多次表示重要度越高，沒有贅詞的問題）
+   - group discussion: 針對屬性去做客戶分類
+
+To-Do:
+   -[ ] 91APP 針對屬性再做EDA，找出可用來分群的x,y
+ 
 ## week 10 (4/25) 使用 NER 對文本進行重點動態標註。  
 ## week 11 (5/2) 將文字標記分類透過共現性與關聯分析進行視覺化。  
 ## week 12 (5/9)
