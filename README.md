@@ -81,10 +81,25 @@ To-Do:
    - group discussion: 針對屬性去做客戶分類
 
 To-Do:
-   - [ ] 91APP 針對屬性再做EDA，找出可用來分群的x,y。下週討論主題大方向和分工
+   - [X] 91APP 針對屬性再做EDA，找出可用來分群的x,y。下週討論主題大方向和分工
  
 ## week 10 (4/25) 使用 NER 對文本進行重點動態標註。  
+   - Introduction to NER & statistics
+
+To-Do:
+   - [X] 討論分析的大方向：有無生日禮&開卡禮對使用者行為的影響、界定VIP客戶作為最後預測的目標、促銷活動的效果（暫定）
+   - [X] EDA based on attriubes in datasets (instead of 'time trend')
+
+Self-taught:
+   - Machine Learning from [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.learningcrux.com/course/machine-learning-a-z-hands-on-python-r-in-data-science): done Classifiers' section
+   - Machine Learning from coursera [by Prof.Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome) : Linear regression with one variable
+   
+   
 ## week 11 (5/2) 將文字標記分類透過共現性與關聯分析進行視覺化。  
+   - Introduction to Apriori algorithm （關聯性分析）
+      - 共現性：看不出先後，且運算高效率。關聯性：可以看出先後，運算量大。
+      - 實務上：先用共現性畫出heatmap，再挑出關聯性高的項目進行關聯性分析。
+      
 ## week 12 (5/9)
 ## week 13 (5/16) Pitch in group
 ## week 14 (5/23)
