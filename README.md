@@ -99,6 +99,10 @@ Self-taught:
    - Introduction to Apriori algorithm （關聯性分析）
       - 共現性：看不出先後，且運算高效率。關聯性：可以看出先後，運算量大。
       - 實務上：先用共現性畫出heatmap，再挑出關聯性高的項目進行關聯性分析。
+   - 實習經驗分享：野村證券
+
+To-Do:
+   - [ ] hw4-6: submit by 5/8(Wed) 3pm
       
 ## week 12 (5/9)
 ## week 13 (5/16) Pitch in group
