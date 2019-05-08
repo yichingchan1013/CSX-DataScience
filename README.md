@@ -102,7 +102,8 @@ Self-taught:
    - 實習經驗分享：野村證券
 
 To-Do:
-   - [ ] hw4-6: submit by 5/8(Wed) 3pm
+   - [X] [hw4-6](https://github.com/yichingchan1013/CSX-DataScience/blob/master/hw4-6/Zootopia%20text%20analytics-Copy2.ipynb)
+   - 題目：對《動物方程式》做文字探勘，分析角色重要字與情緒走向 
       
 ## week 12 (5/9)
 ## week 13 (5/16) Pitch in group
