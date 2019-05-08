@@ -103,7 +103,7 @@ Self-taught:
 
 To-Do:
    - [X] [hw4-6](https://github.com/yichingchan1013/CSX-DataScience/blob/master/hw4-6/Zootopia%20text%20analytics-Copy2.ipynb)
-   - 題目：對《動物方程式》做文字探勘，分析角色重要字與情緒走向 
+   - 題目：文字探勘《動物方程式》，分析角色重要用字與情緒走向 
       
 ## week 12 (5/9)
 ## week 13 (5/16) Pitch in group
