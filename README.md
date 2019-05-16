@@ -69,7 +69,7 @@ To-Do:
    
   
 ## week 8 (4/11)   
-   - hw1-3 peer sharing 
+   - hw1-3  peer sharing 
    - Introduction to Maching Learning & Deep Learning
    
 To-Do:
@@ -106,6 +106,11 @@ To-Do:
    - 題目：文字探勘《動物方程式》，分析角色重要用字與情緒走向 
       
 ## week 12 (5/9)
+   - hw4-6 peer sharing 
+   - 確定各組名單與題目
+
+To-Do:
+   -[X] 確定期末專案的主題與發展方向 (pitch on 5/16)
 ## week 13 (5/16) Pitch in group
 ## week 14 (5/23)
 ## week 15 (5/30)
