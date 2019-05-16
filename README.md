@@ -110,8 +110,13 @@ To-Do:
    - 確定各組名單與題目
 
 To-Do:
-   -[X] 確定期末專案的主題與發展方向 (pitch on 5/16)
+   - [X] 確定期末專案的主題與發展方向 (pitch on 5/16)
+   
+Self-taught:
+   - 《Data Science for Business》 chap1-5
 ## week 13 (5/16) Pitch in group
+   - pitch in group
+   - 
 ## week 14 (5/23)
 ## week 15 (5/30)
 ## week 16 (6/6)
