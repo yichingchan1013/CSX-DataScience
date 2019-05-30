@@ -121,11 +121,19 @@ Self-taught:
    - pitch in group part1 
 
 To-Do:
-   - [X] 期末專案進度：baseline model 
+   - [X] 期末專案進度：baseline model 把資料格式化，從首購訂單預測所屬客群
 
 ## week 15 (5/30)
+   - Recap 專案觀摩：從客服聯繫紀錄找出潛在銷售機會、投資人實際投資行為與風險屬性評估之落差
    - pattern hunter 產品介紹
 
+To-Do:
+   - [ ] 期末專案進度：rolling window，定義問題＋模型訓練
+   - [ ] 期末專案進度: 驗證promotion/ecoupon的效果
+   - [ ] 6/6 把進度放上github由老師決定期末報告組別
+   
+  
+   
 ## week 16 (6/6)
 ## week 17 (6/13) Final Demo
 
