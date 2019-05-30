@@ -106,7 +106,7 @@ To-Do:
    - 題目：文字探勘《動物方程式》，分析角色重要用字與情緒走向 
       
 ## week 12 (5/9)
-   - hw4-6 peer sharing 
+   - hw4-6 peer sharing part1
    - 確定各組名單與題目
 
 To-Do:
@@ -115,10 +115,17 @@ To-Do:
 Self-taught:
    - 《Data Science for Business》 chap1-5
 ## week 13 (5/16) Pitch in group
-   - pitch in group
-   - 
+   - pitch in group part1
+   - talk: 矽谷的溫度 
 ## week 14 (5/23)
+   - pitch in group part1 
+
+To-Do:
+   - [X] 期末專案進度：baseline model 
+
 ## week 15 (5/30)
+   - pattern hunter 產品介紹
+
 ## week 16 (6/6)
 ## week 17 (6/13) Final Demo
 
