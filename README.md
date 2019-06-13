@@ -134,6 +134,8 @@ To-Do:
    
   
 ## week 16 (6/6) 努力做專案
+   - 專案進度討論
+   
 ## week 17 (6/13) Final Demo
    - final project [顧客消費行為預測與折扣優惠影響之探討](https://github.com/yichingchan1013/CSX-DataScience/tree/master/final%20project)  
 
