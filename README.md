@@ -69,7 +69,7 @@ To-Do:
    
   
 ## week 8 (4/11)   
-   - hw1-3 peer sharing 
+   - hw1-3  peer sharing 
    - Introduction to Maching Learning & Deep Learning
    
 To-Do:
@@ -106,9 +106,34 @@ To-Do:
    - 題目：文字探勘《動物方程式》，分析角色重要用字與情緒走向 
       
 ## week 12 (5/9)
+   - hw4-6 peer sharing part1
+   - 確定各組名單與題目
+
+To-Do:
+   - [X] 確定期末專案的主題與發展方向 (pitch on 5/16)
+   
+Self-taught:
+   - 《Data Science for Business》 chap1-5
 ## week 13 (5/16) Pitch in group
+   - pitch in group part1
+   - talk: 矽谷的溫度 
 ## week 14 (5/23)
+   - pitch in group part1 
+
+To-Do:
+   - [X] 期末專案進度：baseline model 把資料格式化，從首購訂單預測所屬客群
+
 ## week 15 (5/30)
+   - Recap 專案觀摩：從客服聯繫紀錄找出潛在銷售機會、投資人實際投資行為與風險屬性評估之落差
+   - pattern hunter 產品介紹
+
+To-Do:
+   - [ ] 期末專案進度：rolling window，定義問題＋模型訓練
+   - [ ] 期末專案進度: 驗證promotion/ecoupon的效果
+   - [ ] 6/6 把進度放上github由老師決定期末報告組別
+   
+  
+   
 ## week 16 (6/6)
 ## week 17 (6/13) Final Demo
 
