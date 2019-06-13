@@ -128,13 +128,13 @@ To-Do:
    - pattern hunter 產品介紹
 
 To-Do:
-   - [ ] 期末專案進度：rolling window，定義問題＋模型訓練
+   - [X] 期末專案進度：rolling window，定義問題＋模型訓練
    - [ ] 期末專案進度: 驗證promotion/ecoupon的效果
-   - [ ] 6/6 把進度放上github由老師決定期末報告組別
+   - [X] 6/6 把進度放上github由老師決定期末報告組別
    
   
-   
-## week 16 (6/6)
+## week 16 (6/6) 努力做專案
 ## week 17 (6/13) Final Demo
+   - final project [顧客消費行為預測與折扣優惠影響之探討](https://github.com/yichingchan1013/CSX-DataScience/tree/master/final%20project)  
 
 
