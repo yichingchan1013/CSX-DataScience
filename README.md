@@ -7,7 +7,7 @@ I am Yiching :smiley: A passionate learner in data analytics. This is the weekly
 1. [project 1 - Keywords Analysis](https://github.com/yichingchan1013/CSX-DataScience/tree/master/project1): Words clouds of certain topics (豬瘟、台大校長遴選) based on the news articles scraped from Liberty Times Net .  
 2. [project 2 - Data Mining](https://github.com/yichingchan1013/CSX-DataScience/tree/master/project2): 91APP Customer behavior anaylsis with data visualization.
 3. [project 3 - Text Analytics](https://github.com/yichingchan1013/CSX-DataScience/blob/master/project3/Zootopia%20text%20analytics.ipynb): Keywords analysis and Senetiment analysis on Zootopia screenplay.
-4. [project 4 - Customer Relationship Management](https://github.com/yichingchan1013/CSX-DataScience/blob/master/project4(final)/Final%20Presentation.pdf): A) predict customer segmentation based on their first transation records to customize future promotions. B) predict customer chrun to improve customer retention. C)Analyze the effects of promotions and Ecoupon on different customer segmentation.
+4. [project 4 (final project) - Customer Relationship Management](https://github.com/yichingchan1013/CSX-DataScience/blob/master/project4(final)/Final%20Presentation.pdf): A) predict customer segmentation based on their first transation records to customize future promotions. B) predict customer chrun to improve customer retention. C)Analyze the effects of promotions and Ecoupon on different customer segmentation.
 
 
 
