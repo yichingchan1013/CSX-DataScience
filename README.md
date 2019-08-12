@@ -3,7 +3,7 @@
 ## Introduce Myself 
 I am Yiching :smiley: A passionate learner in data analytics. This is the weekly report of my progress in the course *Data Science & Prgramming*. 
 
-## Progrects Overview
+## Projects Overview
 1. [project 1 - Keywords Analysis](https://github.com/yichingchan1013/CSX-DataScience/tree/master/hw0): Words clouds of certain topics (豬瘟、台大校長遴選) based on the news articles scrawled from Liberty Times Net .  
 2. [project 2 - Data Mining](https://github.com/yichingchan1013/CSX-DataScience/blob/master/hw1-3/91APP%20%E5%AE%A2%E6%88%B6%E5%88%86%E6%9E%90-Copy1.ipynb): 91APP Customer behavior anaylsis with data visualization.
 3. [project 3 - Text Analytics](https://github.com/yichingchan1013/CSX-DataScience/blob/master/hw4-6/Zootopia%20text%20analytics-Copy2.ipynb): Keywords analysis and Senetiment analysis on Zootopia screenplay.
