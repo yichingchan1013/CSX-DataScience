@@ -7,10 +7,10 @@
 
    1. 非洲豬瘟
    <p align="center">
-      <img src="https://github.com/yichingchan1013/myGithub/blob/master/hw0/pig_cloud.png" width="500">
+      <img src="https://github.com/yichingchan1013/CSX-DataScience/blob/master/project1/pig_cloud.png" width="500">
    </p>
  
    2. 台大校長遴選
    <p align="center">
-      <img src="https://github.com/yichingchan1013/myGithub/blob/master/hw0/ntu_president_cloud.png" width="500">
+      <img src="https://github.com/yichingchan1013/CSX-DataScience/blob/master/project1/ntu_president_cloud.png" width="500">
    </p>
